@@ -1,7 +1,8 @@
 # Ray7 Masr
+A comprehensive web application to assist tourists in planning trips to Egypt, featuring destination exploration, personalized itineraries, cultural insights, and community engagement.
+
 <img width="1912" height="867" alt="image" src="https://github.com/user-attachments/assets/58cd4ec8-36b4-4c89-91cd-6914efe41b72" />
 
-A comprehensive web application to assist tourists in planning trips to Egypt, featuring destination exploration, personalized itineraries, cultural insights, and community engagement.
 
 ## Features
 
